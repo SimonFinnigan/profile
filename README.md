@@ -1,4 +1,3 @@
-
 <html>
 <head>
 <h1>Simon Finnigan. JAMstacker.</h1>
