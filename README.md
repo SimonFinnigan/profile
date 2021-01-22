@@ -1,7 +1,7 @@
-<!DOCTYPE html>
+
 <html>
 <head>
-<title>Simon Finnigan. JAMstacker.</title>
+<h1>Simon Finnigan. JAMstacker.</h1>
 </head>
 
 <body>
